@@ -1,0 +1,715 @@
+{
+"1":
+  {
+    "question": "A number one followed by 100 zeros is known by what name?",
+    "choices": {"a":"Googol","b":"Megatron","c":"Gigabit","d":"Nanomole"},
+    "answer": "a"
+  },
+  "2":
+  {
+    "question": "Which scientific unit is named after an Italian nobleman?",
+    "choices": {"a":"Pascal","b":"Ohm","c":"Volt","d":"Hertz"},
+    "answer": "c"
+  },
+  "3":
+  {
+    "question": "What word can be put in front of the words 'track', 'way' and 'horse' to make three other words?",
+    "choices": {"a":"Race","b":"Cross","c":"Road","d":"Sound"},
+    "answer": "a"
+  },
+  "4":
+  {
+    "question": "Which of these cartoon characters is a rodent?",
+    "choices": {"a":"Tasmanian Devil","b":"Speedy Gonzalez","c":"Wile E. Coyote","d":"Road Runner"},
+    "answer": "b"
+  },
+  "5":
+  {
+    "question": "In the Old Testament, who, with God's help, parted the Red Sea?",
+    "choices": {"a":"Moses","b":"Noah","c":"Jonah","d":"Joseph"},
+    "answer": "a"
+  },
+  "6":
+  {
+    "question": "Which month of the year was named after Julius Caesar?",
+    "choices": {"a":"June","b":"October","c":"August","d":"July"},
+    "answer": "d"
+  },
+  "7":
+  {
+    "question": "The body of the Egyptian Sphinx was based on which animal?",
+    "choices": {"a":"Lion","b":"Bull","c":"Horse","d":"Dog"},
+    "answer": "a"
+  },
+  "8":
+  {
+    "question": "Who had a 1983 hit with the song 'Africa'?",
+    "choices": {"a":"Foreigner","b":"Steely Dan","c":"Toto","d":"Journey"},
+    "answer": "c"
+  },
+  "9":
+  {
+    "question": "Which English guitarist has the nickname SLOWHAND?",
+    "choices": {"a":"Mark Knopfler","b":"Eric Claptop","c":"Jeff Back","d":"Jimmy Page"},
+    "answer": "b"
+  },
+  "10":
+  {
+    "question": "Which is the longest bone in the human body?",
+    "choices": {"a":"Ulna","b":"Fibula","c":"Scapula","d":"Femur"},
+    "answer": "d"
+  },
+  "11":
+  {
+    "question": "On a standard Monopoly board, which square is diagonally opposite to the GO square?",
+    "choices": {"a":"The Electric Company","b":"Jail","c":"Free Parking","d":"Go To Jail"},
+    "answer": "c"
+  },
+  "12":
+  {
+    "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+    "choices": {"a":"Motherboard","b":"Central Processing Unit","c":"Hard Disk Drive","d":"Random Access Memory"},
+    "answer": "a"
+  },
+  "13":
+  {
+    "question": "Which of these countries remained neutral during World War II?",
+    "choices": {"a":"United Kingdom","b":"Switzerland","c":"France","d":"Italy"},
+    "answer": "b"
+  },
+  "14":
+  {
+    "question": "What is the code name for the mobile operating system Android 7.0?",
+    "choices": {"a":"Ice Cream Sandwich","b":"Marshmallow","c":"Nougat","d":"Jelly Bean"},
+    "answer": "c"
+  },
+  "15":
+  {
+    "question": "What team won the 2016 MLS Cup?",
+    "choices": {"a":"Toronto FC","b":"Seattle Sounders","c":"Montreal Impact","d":"Colorado Rapids"},
+    "answer": "b"
+  },
+  "16":
+  {
+    "question": "Which former boy-band star released hit solo single 'Angels' in 1997?",
+    "choices": {"a":"Justin Timberlake","b":"Harry Styles","c":"Gary Barlow","d":"Robbie Williams"},
+    "answer": "d"
+  },
+  "17":
+  {
+    "question": "Which of the following is NOT a Nintendo game console?",
+    "choices": {"a":"Switch","b":"Wii","c":"Dreamcast","d":"SNES"},
+    "answer": "c"
+  },
+  "18":
+  {
+    "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+    "choices": {"a":"July 4, 1776","b":"May 4, 1776","c":"June 4, 1776","d":"July 2, 1776"},
+    "answer": "a"
+  },
+  "19":
+  {
+    "question": "In the Morse code, which letter is indicated by 3 dots?",
+    "choices": {"a":"S","b":"O","c":"A","d":"C"},
+    "answer": "a"
+  },
+  "20":
+  {
+    "question": "Which language is NOT Indo-European?",
+    "choices": {"a":"Russian","b":"Hungarian","c":"Greek","d":"Latvian"},
+    "answer": "b"
+  },
+  "21":
+  {
+    "question": "Which essential condiment is also known as Japanese horseradish?",
+    "choices": {"a":"Mentsuyu","b":"Karashi","c":"Wasabi","d":"Ponzu"},
+    "answer": "c"
+  },
+  "22":
+  {
+    "question": "What is the name of the very first video uploaded to YouTube?",
+    "choices": {"a":"Tribute","b":"Carrie rides a truck","c":"Her new puppy","d":"Me at the zoo"},
+    "answer": "d"
+  },
+  "23":
+  {
+    "question": "After how many years would you celebrate your crystal anniversary?",
+    "choices": {"a":"15","b":"20","c":"10","d":"25"},
+    "answer": "a"
+  },
+  "24":
+  {
+    "question": "Which of these companies does NOT manufacture automobiles?",
+    "choices": {"a":"Fiat","b":"GMC","c":"Ducati","d":"Nissan"},
+    "answer": "c"
+  },
+  "25":
+  {
+    "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+    "choices": {"a":"Fiat","b":"Maserati","c":"Alfa Romeo","d":"Ferrari"},
+    "answer": "a"
+  },
+  "26":
+  {
+    "question": "On average, Americans consume 100 pounds of what per second?",
+    "choices": {"a":"Potatoes","b":"Chocolate","c":"Donuts","d":"Cocaine"},
+    "answer": "b"
+  },
+  "27":
+  {
+    "question": "What character was once considered to be the 27th letter of the alphabet?",
+    "choices": {"a":"Ampersand","b":"Interrobang","c":"Tilde","d":"Pilcrow"},
+    "answer": "a"
+  },
+  "28":
+  {
+    "question": "Which of the following carbonated soft drinks were introduced first?",
+    "choices": {"a":"Coca-Cola","b":"Mountain Dew","c":"Sprite","d":"Dr. Pepper"},
+    "answer": "d"
+  },
+  "29":
+  {
+    "question": "What is a Burgee?",
+    "choices": {"a":"A rope","b":"A window","c":"A flag","d":"A type of food"},
+    "answer": "c"
+  },
+  "30":
+  {
+    "question": "What was the original name of the search engine GOOGLE?",
+    "choices": {"a":"CatMassage","b":"BackRub","c":"SearchPro","d":"Netscape Navigator"},
+    "answer": "b"
+  },
+  "31":
+  {
+    "question": "Where did the pineapple plant originate?",
+    "choices": {"a":"South America","b":"Hawaii","c":"Europe","d":"Asia"},
+    "answer": "a"
+  },
+  "32":
+  {
+    "question": "A statue of Charles Darwin sits in what London museum?",
+    "choices": {"a":"Tate","b":"British Museum","c":"Science Museum","d":"Natural History Museum"},
+    "answer": "d"
+  },
+  "33":
+  {
+    "question": "What fast food chain has the most locations globally?",
+    "choices": {"a":"KFC","b":"Subway","c":"McDonalds","d":"Starbucks"},
+    "answer": "b"
+  },
+  "34":
+  {
+    "question": "What year was Queen Elizabeth II born?",
+    "choices": {"a":"1923","b":"1929","c":"1926","d":"1930"},
+    "answer": "c"
+  },
+  "35":
+  {
+    "question": "Which film star has his statue in Leicester Square?",
+    "choices": {"a":"Alfred Hitchcock","b":"Rowan Atkinson","c":"Paul Newman","d":"Charlie Chaplin"},
+    "answer": "d"
+  },
+  "36":
+  {
+    "question": "Which of the following is not another name for the eggplant?",
+    "choices": {"a":"Potimarron","b":"Brinjal","c":"Guinea Squash","d":"Melongene"},
+    "answer": "a"
+  },
+  "37":
+  {
+    "question": "Which of the following chemicals are found in eggplant seeds?",
+    "choices": {"a":"Mescaline","b":"Nicotine","c":"Cyanide","d":"Psilocybin"},
+    "answer": "b"
+  },
+  "38":
+  {
+    "question": "Sciophobia is the fear of what?",
+    "choices": {"a":"Eating","b":"Bright lights","c":"Shadows","d":"Transportation"},
+    "answer": "c"
+  },
+  "39":
+  {
+    "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+    "choices": {"a":"3 Weeks","b":"1 Month","c":"1 Week","d":"2 Months"},
+    "answer": "b"
+  },
+  "40":
+  {
+    "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "choices": {"a":"Polish","b":"Danish","c":"German","d":"Turkish"},
+    "answer": "d"
+  },
+  "41":
+  {
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "choices": {"a":"Paper","b":"Phones","c":"Computers","d":"Processors"},
+    "answer": "a"
+  },
+  "42":
+  {
+    "question": "What was the code name given to Sonic the Hedgehog 4 during its development?",
+    "choices": {"a":"Project Bluespike","b":"Project Roboegg","c":"Project Needlemouse","d":"Project Darksphere"},
+    "answer": "c"
+  },
+  "43":
+  {
+    "question": "What is the approximate value of mathematical constant e?",
+    "choices": {"a":"1.41","b":"2.72","c":"1.62","d":"3.14"},
+    "answer": "b"
+  },
+  "44":
+  {
+    "question": "What is the largest city and commercial capital of Sri Lanka?",
+    "choices": {"a":"Moratuwa","b":"Negombo","c":"Kandy","d":"Colombo"},
+    "answer": "d"
+  },
+  "45":
+  {
+    "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+    "choices": {"a":"Bane","b":"Calendar Man","c":"Scarecrow","d":"Clayface"},
+    "answer": "c"
+  },
+  "46":
+  {
+    "question": "Who was the original drummer for The Beatles?",
+    "choices": {"a":"Ringo Starr","b":"Tommy Moore","c":"Stuart Sutcliffe","d":"Pete Best"},
+    "answer": "b"
+  },
+  "47":
+  {
+    "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+    "choices": {"a":"Ibuprofen","b":"Morphine","c":"Ketamine","d":"Aspirin"},
+    "answer": "a"
+  },
+  "48":
+  {
+    "question": "What was the first movie to ever use a Wilhelm Scream?",
+    "choices": {"a":"Indiana Jones","b":"Distant Drums","c":"The Birds","d":"Scarface"},
+    "answer": "b"
+  },
+  "49":
+  {
+    "question": "Which one of the following is NOT a sub-company of the Volkswagen Group?",
+    "choices": {"a":"Bugatti","b":"Bentley","c":"Opel","d":"Porsche"},
+    "answer": "c"
+  },
+  "50":
+  {
+    "question": "What nucleotide pairs with guanine?",
+    "choices": {"a":"Thymine","b":"Adenine","c":"Uracil","d":"Cytosine"},
+    "answer": "d"
+  },
+  "51":
+  {
+    "question": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+    "choices": {"a":"Moose","b":"Dog","c":"Bear","d":"Goat"},
+    "answer": "a"
+  },
+  "52":
+  {
+    "question": "What is the most commonly used noun in the English language?",
+    "choices": {"a":"Home","b":"Time","c":"Water","d":"Man"},
+    "answer": "b"
+  },
+  "53":
+  {
+    "question": "Which of the following physicists did NOT work on the Manhattan project?",
+    "choices": {"a":"Richard Feynman","b":"J. Robert Oppenheimer","c":"Murray Gell-Mann","d":"John Von-Neumann"},
+    "answer": "c"
+  },
+  "54":
+  {
+    "question": "In the Scoville scale, what is the hottest chemical?",
+    "choices": {"a":"Capsaicin","b":"Dihydrocapsaicin","c":"Tinyatoxin","d":"Resiniferatoxin"},
+    "answer": "d"
+  },
+  "55":
+  {
+    "question": "In a standard set of playing cards, which is the only king without a moustache?",
+    "choices": {"a":"Hearts","b":"Spades","c":"Diamonds","d":"Clubs"},
+    "answer": "a"
+  },
+  "56":
+  {
+    "question": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+    "choices": {"a":"Scotland","b":"Wales","c":"Ireland","d":"Isle of Wight"},
+    "answer": "b"
+  },
+  "57":
+  {
+    "question": "Which element has the atomic number of 7?",
+    "choices": {"a":"Neon","b":"Hydrogen","c":"Nitrogen","d":"Oxygen"},
+    "answer": "c"
+  },
+  "58":
+  {
+    "question": "Which nation hosted the FIFA World Cup in 2006?",
+    "choices": {"a":"United Kingdom","b":"Brazil","c":"South Africa","d":"Germany"},
+    "answer": "d"
+  },
+  "59":
+  {
+    "question": "Who is the musical director for the award winning musical 'Hamilton'?",
+    "choices": {"a":"Alex Lacamoire","b":"Lin-Manuel Miranda","c":"Renee Elise-Goldberry","d":"Leslie Odom Jr."},
+    "answer": "a"
+  },
+  "60":
+  {
+    "question": "Which of these is NOT a part of the structure of a typical neuron?",
+    "choices": {"a":"Node of Ranvier","b":"Islets of Langerhans","c":"Schwann cell","d":"Myelin sheath"},
+    "answer": "b"
+  },
+  "61":
+  {
+    "question": "What year were the Marian Reforms instituted in the Roman Republic?",
+    "choices": {"a":"42 BCE","b":"264 BCE","c":"107 BCE","d":"102 CE"},
+    "answer": "c"
+  },
+  "62":
+  {
+    "question": "What is the last letter of the Greek alphabet?",
+    "choices": {"a":"Mu","b":"Epsilon","c":"Kappa","d":"Omega"},
+    "answer": "d"
+  },
+  "63":
+  {
+    "question": "What level do you have to be to get a service medal on CS:GO?",
+    "choices": {"a":"40","b":"50","c":"30","d":"20"},
+    "answer": "a"
+  },
+  "64":
+  {
+    "question": "What breed of dog is SCOOBY DOO?",
+    "choices": {"a":"Great Dane","b":"Pit Bull","c":"Boxer","d":"Doberman Pinscher"},
+    "answer": "a"
+  },
+  "65":
+  {
+    "question": "Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?",
+    "choices": {"a":"The Wolf Of Wall Street","b":"Shutter Island","c":"The Revenant","d":"Inception"},
+    "answer": "c"
+  },
+  "66":
+  {
+    "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+    "choices": {"a":"8","b":"6","c":"2","d":"4"},
+    "answer": "d"
+  },
+  "67":
+  {
+    "question": "What part of the brain takes its name from the Greek for seahorse?",
+    "choices": {"a":"Hippocampus","b":"Cerebellum","c":"Thalamus","d":"Amygdala"},
+    "answer": "a"
+  },
+  "68":
+  {
+    "question": "The Korean War started in what year?",
+    "choices": {"a":"1945","b":"1950","c":"1960","d":"1912"},
+    "answer": "b"
+  },
+  "69":
+  {
+    "question": "The medial meniscus forms which part of what joint in the human body?",
+    "choices": {"a":"Ankle","b":"Shoulder","c":"Knee","d":"Elbow"},
+    "answer": "c"
+  },
+  "70":
+  {
+    "question": "What is a Tetris piece called?",
+    "choices": {"a":"Tetratile","b":"Tetris","c":"Tetripiece","d":"Tetromino"},
+    "answer": "d"
+  },
+  "71":
+  {
+    "question": "The Italian automaker Lamborghini uses what animal as its logo?",
+    "choices": {"a":"Bull","b":"Bat","c":"Horse","d":"Snake"},
+    "answer": "a"
+  },
+  "72":
+  {
+    "question": "Which of these artists do NOT originate from France?",
+    "choices": {"a":"Air","b":"The Chemical Brothers","c":"Justice","d":"Daft Punk"},
+    "answer": "b"
+  },
+  "73":
+  {
+    "question": "What does a milliner make and sell?",
+    "choices": {"a":"Shoes","b":"Belts","c":"Hats","d":"Shirts"},
+    "answer": "c"
+  },
+  "74":
+  {
+    "question": "What direction does the Statue of Liberty face?",
+    "choices": {"a":"Northeast","b":"Northwest","c":"Southwest","d":"Southeast"},
+    "answer": "d"
+  },
+  "75":
+  {
+    "question": "Earl Grey tea is black tea flavoured with what?",
+    "choices": {"a":"Bergamot oil","b":"Lavender","c":"Vanilla","d":"Honey"},
+    "answer": "a"
+  },
+  "76":
+  {
+    "question": "In the UK, the abbreviation NHS stands for National 'what' Service?",
+    "choices": {"a":"Humanity","b":"Health","c":"Honour","d":"Household"},
+    "answer": "b"
+  },
+  "77":
+  {
+    "question": "Which Disney character famously leaves a glass slipper behind at a royal ballet?",
+    "choices": {"a":"Pocahontas","b":"Sleeping Beauty","c":"Cinderella","d":"Elsa"},
+    "answer": "c"
+  },
+  "78":
+  {
+    "question": "What name is given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim?",
+    "choices": {"a":"Hangar","b":"Terminal","c":"Concourse","d":"Carousel"},
+    "answer": "d"
+  },
+  "79":
+  {
+    "question": "Which of these brands was chiefly associated with the manufacture of household locks?",
+    "choices": {"a":"Phillips","b":"Flymo","c":"Chubb","d":"Ronseal"},
+    "answer": "c"
+  },
+
+  "80":
+  {
+    "question": "The hammer and sickle is one of the most recognisable symbols of which political ideology?",
+    "choices": {"a":"Republicanism","b":"Communism","c":"Conservatism","d":"Liberalism"},
+    "answer": "b"
+  },
+
+  "81":
+  {
+    "question": "What toys have been marketed with the phrase 'Robots in Disguise'?",
+    "choices": {"a":"Bratz dolls","b":"Sylvanian Families","c":"Hatchimals","d":"Transformers"},
+    "answer": "d"
+  },
+
+  "82":
+  {
+    "question": "What does the word 'loquacious' mean?",
+    "choices": {"a":"Angry","b":"Chatty","c":"Beautiful","d":"Shy"},
+    "answer": "b"
+  },
+
+  "83":
+  {
+    "question": "Obstetrics is a branch of medicine particularly concerned with what?",
+    "choices": {"a":"Childbirth","b":"Broken bones","c":"Heart conditions","d":"Old age"},
+    "answer": "a"
+  },
+
+  "85":
+  {
+    "question": "Which of these religious observances lasts for the shortest period of time during the calendar year?",
+    "choices": {"a":"Ramadan","b":"Diwali","c":"Lent","d":"Hanukah"},
+    "answer": "b"
+  },
+
+  "84":
+  {
+    "question": "Which of these U.S. Presidents appeared on the television series Laugh-In?",
+    "choices": {"a":"Lyndon Johnson","b":"Richard Nixon","c":"Jimmy Carter","d":"Gerald Ford"},
+    "answer": "b"
+  },
+
+  "86":
+  {
+    "question": "At the closest point, which island group is only 50 miles south-east of the coast of Florida?",
+    "choices": {"a":"Bahamas","b":"US Virgin Islands","c":"Turks and Calcos Islands","d":"Bermuda"},
+    "answer": "a"
+  },
+
+  "87":
+  {
+    "question": "Construction of which of these famous landmarks was completed first?",
+    "choices": {"a":"Empire State Building","b":"Royal Albert Hall","c":"Eiffel Tower","d":"Big Ben clock tower"},
+    "answer": "d"
+  },
+
+  "88":
+  {
+    "question": "Which of these cetaceans is classified as a 'toothed whale'?",
+    "choices": {"a":"Gray whale","b":"Minke whale","c":"Sperm whale","d":"Humpback whale"},
+    "answer": "c"
+  },
+
+  "89":
+  {
+    "question": "On February 22, 1989, what group won the first Grammy award for Best Hard Rock/Metal Performance?",
+    "choices": {"a":"Metallica","b":"AC/DC","c":"Living Colour","d":"Jethro Tull"},
+    "answer": "d"
+  },
+
+  "90":
+  {
+    "question": "In what language was Anne Frank's original diary first published?",
+    "choices": {"a":"Dutch","b":"English","c":"French","d":"German"},
+    "answer": "a"
+  },
+  "91":
+  {
+    "question": "The Earth is approximately how many miles away from the Sun?",
+    "choices": {"a":"9.3 million","b":"39 million","c":"93 million","d":"193 million"},
+    "answer": "c"
+  },
+  "92":
+  {
+    "question": "In what country are all U.S. Major League baseballs currently manufactured?",
+    "choices": {"a":"Costa Rica","b":"Haiti","c":"Dominican Republic","d":"Cuba"},
+    "answer": "a"
+  },
+  "93":
+  {
+    "question": "What insect shorted out an early supercomputer and inspired the term computer bug?",
+    "choices": {"a":"Moth","b":"Roach","c":"Fly","d":"Japanese beetle"},
+    "answer": "a"
+  },
+  "94":
+  {
+    "question": "Playwright Anton Chekhov graduated from the University of Moscow with a degree in what?",
+    "choices": {"a":"Law","b":"Medicine","c":"Philosophy","d":"Economics"},
+    "answer": "b"
+  },
+  "95":
+  {
+    "question": "Before the American colonies switched to the Gregorian calendar, on what date did their new year start?",
+    "choices": {"a":"March 25","b":"July 1","c":"September 25","d":"December 1"},
+    "answer": "a"
+  },
+  "96":
+  {
+    "question": "Which of the following men does not have a chemical element named for him?",
+    "choices": {"a":"Albert Einstein","b":"Niels Bohr","c":"Isaac Newton","d":"Enrico Fermi"},
+    "answer": "c"
+  },
+  "97":
+  {
+    "question": "Which of the following landlocked countries is entirely contained within another country?",
+    "choices": {"a":"Lesotho","b":"Burkina Faso","c":"Mongolia","d":"Luxembourg"},
+    "answer": "a"
+  },
+  "98":
+  {
+    "question": "In the children's book series, where is Paddington Bear originally from?",
+    "choices": {"a":"India","b":"Peru","c":"Canada","d":"Iceland"},
+    "answer": "b"
+  },
+  "99":
+  {
+    "question": "Who is credited with inventing the first mass-produced helicopter?",
+    "choices": {"a":"Igor Sikorsky","b":"Elmer Sperry","c":"Ferdinand von Zeppelin","d":"Gottlieb Daimler"},
+    "answer": "a"
+  },
+  "100":
+  {
+    "question": "How many days make up a non-leap year in the Islamic calendar?",
+    "choices": {"a":"365","b":"400","c":"354","d":"376"},
+    "answer": "c"
+  },
+  "101":
+  {
+    "question": "During WWII, U.S. soldiers used the first commercial aerosol cans to hold what?",
+    "choices": {"a":"Cleaning fluid","b":"Antiseptic","c":"Insecticide","d":"Shaving cream"},
+    "answer": "c"
+  },
+  "102":
+  {
+    "question": "The U.S. icon Uncle Sam was based on Samuel Wilson who worked during the War of 1812 as a what?",
+    "choices": {"a":"Meat inspector","b":"Mail deliverer","c":"Historian","d":"Weapons mechanic"},
+    "answer": "a"
+  },
+  "103":
+  {
+    "question": "Who did artist Grant Wood use as the model for the farmer in his classic painting American Gothic?",
+    "choices": {"a":"Traveling salesman","b":"Local sheriff","c":"His dentist","d":"His butcher"},
+    "answer": "c"
+  },
+  "104":
+  {
+    "question": "What great thinker's death is attributed to a chill he caught while stuffing a chicken with snow for an experiment on refrigeration?",
+    "choices": {"a":"Pythagoras","b":"Archimedes","c":"Isaac Newton","d":"Francis Bacon"},
+    "answer": "d"
+  },
+  "105":
+  {
+    "question": "Though today it's treated like a treasure, what famous painting was once cut into enlarge a doorway?",
+    "choices": {"a":"Detroit Industry","b":"The Last Supper","c":"Guernica","d":"The Birth of Venus"},
+    "answer": "b"
+  },
+  "106":
+  {
+    "question": "A rare example of a word that rhymes with orange, the Blorenge is a what?",
+    "choices": {"a":"River in Ireland","b":"Forest in Scotland","c":"Mountain in Wales","d":"Desert in Australia"},
+    "answer": "c"
+  },
+  "107":
+  {
+    "question": "Which monarch was known as the wisest fool in Christendom?",
+    "choices": {"a":"James I","b":"Charles I","c":"Edward I","d":"Henry I"},
+    "answer": "a"
+  },
+  "108":
+  {
+    "question": "Oberon is the satellite of which planet?",
+    "choices": {"a":"Mercury","b":"Neptune","c":"Uranus","d":"Mars"},
+    "answer": "c"
+  },
+  "109":
+  {
+    "question": "Tomas Masaryk was the first president of which country?",
+    "choices": {"a":"Czechoslovakia","b":"Poland","c":"Hungary","d":"Yugoslavia"},
+    "answer": "a"
+  },
+  "110":
+  {
+    "question": "What was the occupation of the composer Borodin?",
+    "choices": {"a":"Naval captain","b":"Chemist","c":"Lawyer","d":"Chef"},
+    "answer": "b"
+  },
+  "111":
+  {
+    "question": "Who was the first man to travel into space twice?",
+    "choices": {"a":"Vladimir Titov","b":"Michael Collins","c":"Gus Grissom","d":"Yuri Gagarin"},
+    "answer": "c"
+  },
+  "112":
+  {
+    "question": "Which of these people was born the same year as Queen Elizabeth II?",
+    "choices": {"a":"Audrey Hepburn","b":"Judy Garland","c":"Julie Andrews","d":"Marilyn Monroe"},
+    "answer": "d"
+  },
+  "113":
+  {
+    "question": "In the history of motor sport, which of these iconic races was held first?",
+    "choices": {"a":"Le Mans 24 Hours","b":"Monaco Grand Prix","c":"Indy 500","d":"Isle of Man TT"},
+    "answer": "d"
+  },
+  "114":
+  {
+    "question": "In 1718, which pirate died in battle off the coast of what is now North Carolina?",
+    "choices": {"a":"Calico Jack","b":"Blackbeard","c":"Bartholomew Roberts","d":"Captain Kidd"},
+    "answer": "b"
+  },
+  "115":
+  {
+    "question": "How many humans have set foot on the moon?",
+    "choices": {"a":"10","b":"12","c":"14","d":"16"},
+    "answer": "b"
+  },
+  "116":
+  {
+    "question": "Registering 9.5 on the Richter scale, the most powerful earthquake ever recorded struck where?",
+    "choices": {"a":"Alaska","b":"Chile","c":"China","d":"Siberia"},
+    "answer": "b"
+  },
+  "117":
+  {
+    "question": "In mythology, which creature sprang from the blood of the Medusa?",
+    "choices": {"a":"Pegasus","b":"Griffin","c":"Hydra","d":"Centaur"},
+    "answer": "a"
+  }
+}

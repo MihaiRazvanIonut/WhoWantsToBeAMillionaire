@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Out_Of_Time_Klaxon.mp3-c25acc4c3a9d59180c0bcfe80d52ade2.mp3str"
+
+[deps]
+
+source_file="res://Assets/Out_Of_Time_Klaxon.mp3"
+dest_files=[ "res://.import/Out_Of_Time_Klaxon.mp3-c25acc4c3a9d59180c0bcfe80d52ade2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,290 @@
+[gd_scene load_steps=24 format=2]
+
+[ext_resource path="res://Assets/template_timer.png" type="Texture" id=1]
+[ext_resource path="res://Screens/Timer.gd" type="Script" id=2]
+[ext_resource path="res://Screens/QuitButton.gd" type="Script" id=3]
+[ext_resource path="res://quit.tres" type="Theme" id=4]
+[ext_resource path="res://ans_theme.tres" type="Theme" id=5]
+[ext_resource path="res://Screens/Game.gd" type="Script" id=6]
+[ext_resource path="res://question_theme.tres" type="Theme" id=7]
+[ext_resource path="res://Screens/Correctness.gd" type="Script" id=8]
+[ext_resource path="res://menu_theme.tres" type="Theme" id=9]
+[ext_resource path="res://Assets/Lifeline/switchQuestion.png" type="Texture" id=10]
+[ext_resource path="res://Assets/Lifeline/5050.png" type="Texture" id=11]
+[ext_resource path="res://Assets/Lifeline/5050Disabled.png" type="Texture" id=12]
+[ext_resource path="res://Assets/Lifeline/askFriend.png" type="Texture" id=13]
+[ext_resource path="res://Assets/Lifeline/askFriendHover.png" type="Texture" id=14]
+[ext_resource path="res://Assets/Lifeline/switchQuestionHover.png" type="Texture" id=15]
+[ext_resource path="res://Assets/Lifeline/switchQuestionDisabled.png" type="Texture" id=16]
+[ext_resource path="res://Assets/Lifeline/5050Hover.png" type="Texture" id=17]
+[ext_resource path="res://Assets/Lifeline/askFriendDisabled.png" type="Texture" id=18]
+[ext_resource path="res://Assets/trasnparent.png" type="Texture" id=19]
+[ext_resource path="res://Screens/ToggleSound.gd" type="Script" id=20]
+[ext_resource path="res://Assets/Speaker_Icon.png" type="Texture" id=21]
+[ext_resource path="res://Screens/Pause.gd" type="Script" id=22]
+[ext_resource path="res://Screens/Win.gd" type="Script" id=23]
+
+[node name="Game" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Scene1Background" type="TextureRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -25.0
+margin_right = -25.0
+texture = ExtResource( 1 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+volume_db = 1.128
+autoplay = true
+
+[node name="Question" type="Label" parent="."]
+anchor_left = 0.0742188
+anchor_top = 0.631667
+anchor_right = 0.55371
+anchor_bottom = 0.755
+margin_left = -4.0
+margin_right = -4.0
+grow_horizontal = 0
+grow_vertical = 0
+size_flags_vertical = 1
+theme = ExtResource( 7 )
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="QuitButton" type="Button" parent="."]
+margin_right = 82.0
+margin_bottom = 49.0
+theme = ExtResource( 4 )
+text = "Quit"
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ButtonA" type="Button" parent="."]
+anchor_left = 0.096
+anchor_top = 0.821
+anchor_right = 0.096
+anchor_bottom = 0.821
+margin_left = -24.304
+margin_top = -20.6001
+margin_right = 183.696
+margin_bottom = 20.4
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource( 5 )
+align = 0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Correctness" type="Node" parent="ButtonA"]
+script = ExtResource( 8 )
+
+[node name="ButtonB" type="Button" parent="."]
+anchor_left = 0.401
+anchor_top = 0.821
+anchor_right = 0.401
+anchor_bottom = 0.821
+margin_left = -24.624
+margin_top = -20.6001
+margin_right = 183.376
+margin_bottom = 20.4
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource( 5 )
+align = 0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Correctness" type="Node" parent="ButtonB"]
+script = ExtResource( 8 )
+
+[node name="ButtonC" type="Button" parent="."]
+anchor_left = 0.095
+anchor_top = 0.917
+anchor_right = 0.095
+anchor_bottom = 0.917
+margin_left = -23.28
+margin_top = -20.2
+margin_right = 184.72
+margin_bottom = 20.8
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource( 5 )
+align = 0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Correctness" type="Node" parent="ButtonC"]
+script = ExtResource( 8 )
+
+[node name="ButtonD" type="Button" parent="."]
+anchor_left = 0.4
+anchor_top = 0.917
+anchor_right = 0.4
+anchor_bottom = 0.917
+margin_left = -22.6
+margin_top = -20.2
+margin_right = 185.4
+margin_bottom = 20.8
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource( 5 )
+align = 0
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Correctness" type="Node" parent="ButtonD"]
+script = ExtResource( 8 )
+
+[node name="MoneyTree" type="TextureRect" parent="."]
+anchor_left = 0.626375
+anchor_top = -0.0903333
+anchor_right = 0.999023
+anchor_bottom = 1.005
+margin_left = -0.40802
+margin_top = 0.199997
+margin_bottom = 1.0
+expand = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Timer" type="Label" parent="."]
+anchor_left = 0.334
+anchor_top = 0.312
+anchor_right = 0.334
+anchor_bottom = 0.312
+margin_left = -139.016
+margin_top = -75.2
+margin_right = 89.984
+margin_bottom = 74.8
+theme = ExtResource( 9 )
+align = 1
+valign = 1
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="5050Button" type="TextureButton" parent="."]
+anchor_left = 0.635742
+anchor_top = 0.03
+anchor_right = 0.75293
+anchor_bottom = 0.23
+texture_normal = ExtResource( 11 )
+texture_hover = ExtResource( 17 )
+texture_disabled = ExtResource( 12 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="AskFriendButton" type="TextureButton" parent="."]
+anchor_left = 0.757813
+anchor_top = 0.03
+anchor_right = 0.875
+anchor_bottom = 0.23
+texture_normal = ExtResource( 13 )
+texture_hover = ExtResource( 14 )
+texture_disabled = ExtResource( 18 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="SwitchQuestionButton" type="TextureButton" parent="."]
+anchor_left = 0.879883
+anchor_top = 0.03
+anchor_right = 0.99707
+anchor_bottom = 0.23
+texture_normal = ExtResource( 10 )
+texture_hover = ExtResource( 15 )
+texture_disabled = ExtResource( 16 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="GoodBad" type="TextureRect" parent="."]
+anchor_left = 0.334
+anchor_top = 0.312
+anchor_right = 0.334
+anchor_bottom = 0.312
+margin_left = -164.016
+margin_top = -122.2
+margin_right = 118.984
+margin_bottom = 128.8
+texture = ExtResource( 19 )
+expand = true
+stretch_mode = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ToggleSound" type="TextureButton" parent="."]
+anchor_left = 0.577148
+anchor_top = 0.005
+anchor_right = 0.622383
+anchor_bottom = 0.0853333
+margin_right = -0.320004
+margin_bottom = -0.200005
+toggle_mode = true
+texture_normal = ExtResource( 21 )
+expand = true
+stretch_mode = 4
+script = ExtResource( 20 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+pause_mode = 2
+script = ExtResource( 22 )
+
+[node name="Win" type="Button" parent="."]
+anchor_left = 0.519
+anchor_top = 0.022
+anchor_right = 0.57
+anchor_bottom = 0.072
+margin_left = -0.456055
+margin_top = -0.200001
+margin_right = 0.319946
+margin_bottom = -0.200001
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource( 5 )
+text = "Win"
+script = ExtResource( 23 )
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[connection signal="button_up" from="QuitButton" to="QuitButton" method="_on_button_up"]
+[connection signal="button_up" from="ButtonA" to="." method="_on_ButtonA_button_up"]
+[connection signal="button_up" from="ButtonB" to="." method="_on_ButtonB_button_up"]
+[connection signal="button_up" from="ButtonC" to="." method="_on_ButtonC_button_up"]
+[connection signal="button_up" from="ButtonD" to="." method="_on_ButtonD_button_up"]
+[connection signal="button_up" from="5050Button" to="." method="_on_5050Button_button_up"]
+[connection signal="button_up" from="AskFriendButton" to="." method="_on_AskFriendButton_button_up"]
+[connection signal="button_up" from="SwitchQuestionButton" to="." method="_on_SwitchQuestionButton_button_up"]
+[connection signal="pressed" from="ToggleSound" to="ToggleSound" method="_on_ToggleSound_pressed"]
+[connection signal="pressed" from="Win" to="." method="_on_Win_pressed"]
